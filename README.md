@@ -30,12 +30,15 @@ Pizza sales transaction data containing order details, pizza category, size, qua
 - 📄 [Pizza Sales Analysis Queries] (https://github.com/RiddhiK02/Pizza-sales-analysis/blob/main/Pizza_SQL.sql)
   
 
+
 ### Power BI
 - KPI cards for revenue, orders, and averages
 - Best and worst seller analysis
 - Daily and monthly trends
 - Category-wise and size-wise sales contribution
 - Interactive filters by date and pizza category
+  ## Power BI Dashboard
+   [Download Power BI Dashboard (.pbix)](powerbi/pizza_sales_dashboard.pbix)
 
 ## Key Insights
 - Classic pizzas generate the highest revenue and total orders
