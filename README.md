@@ -44,4 +44,16 @@ Pizza sales transaction data containing order details, pizza category, size, qua
 - Plan inventory and staffing for peak days and months
 
 ## Dashboard Preview
-https://drive.google.com/drive/folders/14MA2FTOSxARw43Z9G8GyYh2hRannmp3V?usp=sharing
+<img width="1460" height="802" alt="Home Page" src="https://github.com/user-attachments/assets/61496025-c8d3-45ac-8f3c-390cd651f42e" />
+<img width="1462" height="804" alt="Best-Worst Seller" src="https://github.com/user-attachments/assets/0cdd2466-7369-4e83-9d14-f253c0be44f0" />
+<img width="1462" height="797" alt="Date Filter" src="https://github.com/user-attachments/assets/ea2b42f7-3fef-48f4-b6ff-db60b52c9e88" />
+<img width="1462" height="800" alt="Filter on Category" src="https://github.com/user-attachments/assets/cffb0609-c80e-4689-9602-c3f0a458fc29" />
+<img width="1276" height="819" alt="SQL Query 1" src="https://github.com/user-attachments/assets/8a53cacf-df16-472d-8d5b-8f41db153d67" />
+<img width="1266" height="810" alt="SQL Query 2" src="https://github.com/user-attachments/assets/24323137-17a4-4db9-863a-33ecb5bbd3b0" />
+
+
+
+
+
+
+
