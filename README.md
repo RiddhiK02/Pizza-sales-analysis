@@ -56,10 +56,10 @@ Pizza sales transaction data containing order details, pizza category, size, qua
 ### Category & Size Analysis
 <img width="1462" height="800" alt="Filter on Category" src="https://github.com/user-attachments/assets/cffb0609-c80e-4689-9602-c3f0a458fc29" />
 
-
+### SQL Query 1
 <img width="1276" height="819" alt="SQL Query 1" src="https://github.com/user-attachments/assets/8a53cacf-df16-472d-8d5b-8f41db153d67" />
 
-
+### SQL Query 2
 <img width="1266" height="810" alt="SQL Query 2" src="https://github.com/user-attachments/assets/24323137-17a4-4db9-863a-33ecb5bbd3b0" />
 
 
