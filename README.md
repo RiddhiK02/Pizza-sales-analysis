@@ -12,8 +12,8 @@ Analysis of pizza sales data to understand revenue performance, customer orderin
 ## Dataset
 Pizza sales transaction data containing order details, pizza category, size, quantity sold, and total price.
 
-Dataset file: 
-
+## Dataset file: 
+[pizza_sales.csv](Dataset/pizza_sales.csv)
 
 ## Tools Used
 - SQL
