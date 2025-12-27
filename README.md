@@ -12,6 +12,9 @@ Analysis of pizza sales data to understand revenue performance, customer orderin
 ## Dataset
 Pizza sales transaction data containing order details, pizza category, size, quantity sold, and total price.
 
+Dataset file: 
+
+
 ## Tools Used
 - SQL
 - Power BI
