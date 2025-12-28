@@ -1,75 +1,189 @@
-# Pizza-sales-analysis
-Pizza sales analysis using SQL and Power BI to generate business insights
+ # 🍕 Pizza Sales Analytics Dashboard  
+**SQL & Power BI | Business Intelligence Project**
 
-## Overview
-Analysis of pizza sales data to understand revenue performance, customer ordering patterns, and product trends using SQL and Power BI.
+An interactive **end-to-end sales analytics dashboard** designed to analyze pizza sales performance, customer ordering behavior, and product trends.
 
-## Business Objectives
-- Identify best and worst selling pizzas
-- Analyze sales trends by day and month
-- Understand revenue contribution by pizza category and size
+This project demonstrates how raw transactional data can be transformed into **actionable business insights** using **SQL for analysis** and **Power BI for visualization** — enabling data-driven decision-making for sales growth and operational efficiency.
 
-## Dataset
-Pizza sales transaction data containing order details, pizza category, size, quantity sold, and total price.
+---
 
- ### Dataset file: 
- [Pizza Sales Dataset](https://github.com/RiddhiK02/Pizza-sales-analysis/raw/main/pizza_sales.csv)
+## 📊 Project Overview
 
-## Tools Used
-- SQL
-- Power BI
+This analytics solution provides a **complete performance view** of a pizza business by tracking:
 
-## Analysis Performed
-### SQL
-- Total revenue and total orders
-- Average order value and pizzas per order
-- Daily and monthly order trends
-- Top and bottom pizzas by revenue, quantity, and orders
-- Sales distribution by category and size
-  ### SQL Scripts
-  [Pizza Sales Analysis Queries](https://github.com/RiddhiK02/Pizza-sales-analysis/blob/main/Pizza_SQL.sql)
-  
+- Revenue growth patterns  
+- Customer ordering trends  
+- Product-level performance  
+- Category and size contribution  
+- Peak demand periods  
+
+The dashboard helps **business owners, sales managers, and analysts** quickly identify what’s working, what’s not, and where to focus.
+
+---
+
+## 🎯 Business Objectives
+
+- Identify **best and worst selling pizzas**
+- Analyze **daily & monthly sales trends**
+- Understand **revenue contribution** by category and size
+- Improve **inventory, pricing, and promotional strategies**
+- Support **data-driven decision-making**
+
+---
+
+## 🗂 Dataset Information
+
+**Source:** Pizza sales transaction dataset  
+
+**Dataset includes:**
+- Order ID & date
+- Pizza category & size
+- Quantity sold
+- Total price per order
+
+📁 **Dataset File:**  
+🔗 [Pizza Sales Dataset](https://github.com/RiddhiK02/Pizza-sales-analysis/raw/main/pizza_sales.csv)
+
+---
+
+## 🛠 Tools & Technologies Used
+
+| Tool | Purpose |
+|-----|--------|
+| SQL | Data analysis & KPI calculations |
+| Power BI | Dashboard design & visualization |
+| Excel | Initial data inspection |
+
+---
+
+## 🔍 Analysis Performed
+
+### 🧮 SQL Analysis
+- Total revenue & total orders
+- Average order value (AOV)
+- Pizzas per order
+- Daily & monthly order trends
+- Top & bottom pizzas by:
+  - Revenue
+  - Quantity sold
+  - Number of orders
+- Sales distribution by category & size
+
+📄 **SQL Scripts:**  
+🔗 [Pizza Sales Analysis Queries](https://github.com/RiddhiK02/Pizza-sales-analysis/blob/main/Pizza_SQL.sql)
+
+---
+
+### 📈 Power BI Dashboard Analysis
+
+The Power BI dashboard is designed with **business storytelling** in mind.
+
+It includes:
+- KPI cards for revenue, orders, and AOV
+- Best & worst seller analysis
+- Daily & monthly trend analysis
+- Category-wise & size-wise sales contribution
+- Interactive slicers for date and category
+ 
+📥 **Power BI Report (.pbix):**  
+🔗 [Power BI Dashboard](https://github.com/RiddhiK02/Pizza-sales-analysis/blob/main/Pizza_Sales_Report.pbix)
 
 
-## Power BI
-- KPI cards for revenue, orders, and averages
-- Best and worst seller analysis
-- Daily and monthly trends
-- Category-wise and size-wise sales contribution
-- Interactive filters by date and pizza category
-  ### Power BI Dashboard
-  [Power BI Dashboard](https://github.com/RiddhiK02/Pizza-sales-analysis/blob/main/Pizza_Sales_Report.pbix)
+---
 
-## Key Insights
-- Classic pizzas generate the highest revenue and total orders
-- Large-sized pizzas contribute the most to total sales
-- Orders peak on Fridays and Saturdays
-- July and January show the highest demand
+## 📊 Dashboard Sections
+
+### 🏠 Home – Sales Overview
+A high-level snapshot showing:
+- Total revenue
+- Total orders
+- Average order value
+- Overall sales performance
+
+<img src="https://github.com/user-attachments/assets/61496025-c8d3-45ac-8f3c-390cd651f42e" width="100%" />
+
+---
+
+### ⭐ Best & Worst Sellers
+Highlights:
+- Top-performing pizzas driving revenue
+- Underperforming pizzas impacting profitability
+
+<img src="https://github.com/user-attachments/assets/0cdd2466-7369-4e83-9d14-f253c0be44f0" width="100%" />
+
+---
+
+### 📅 Sales Trends (Day & Month)
+Identifies:
+- Peak ordering days
+- Seasonal and monthly demand patterns
+
+<img src="https://github.com/user-attachments/assets/ea2b42f7-3fef-48f4-b6ff-db60b52c9e88" width="100%" />
+
+---
+
+### 🍕 Category & Size Analysis
+Shows:
+- Revenue contribution by pizza category
+- Performance comparison across pizza sizes
+
+<img src="https://github.com/user-attachments/assets/cffb0609-c80e-4689-9602-c3f0a458fc29" width="100%" />
+
+---
+
+## 💡 Key Insights
+
+- **Classic pizzas** generate the highest revenue and total orders
+- **Large-sized pizzas** contribute the most to total sales
+- Orders peak on **Fridays and Saturdays**
+- **January and July** show the highest demand
 - Certain pizzas consistently underperform across all metrics
 
-## Business Recommendations
+---
+
+## 📌 Business Recommendations
+
 - Promote high-performing pizza categories and sizes
 - Improve or discontinue consistently low-performing pizzas
-- Plan inventory and staffing for peak days and months
+- Plan inventory and staffing for peak demand days
+- Introduce targeted promotions during low-demand periods
 
-## Dashboard Preview
-### Home Page
-<img width="1460" height="802" alt="Home Page" src="https://github.com/user-attachments/assets/61496025-c8d3-45ac-8f3c-390cd651f42e" />
+---
 
-### Best & Worst Sellers
-<img width="1462" height="804" alt="Best-Worst Seller" src="https://github.com/user-attachments/assets/0cdd2466-7369-4e83-9d14-f253c0be44f0" />
+## 🧠 Skills & Concepts Demonstrated
 
-### Sales Trends (Day & Month)
-<img width="1462" height="797" alt="Date Filter" src="https://github.com/user-attachments/assets/ea2b42f7-3fef-48f4-b6ff-db60b52c9e88" />
+- SQL Data Analysis & Aggregations
+- KPI Identification & Tracking
+- Data Cleaning & Preparation
+- Power BI Dashboard Design
+- Data Storytelling & Visualization
+- Business Intelligence Reporting
 
-### Category & Size Analysis
-<img width="1462" height="800" alt="Filter on Category" src="https://github.com/user-attachments/assets/cffb0609-c80e-4689-9602-c3f0a458fc29" />
+---
 
-### SQL Query 1
-<img width="1276" height="819" alt="SQL Query 1" src="https://github.com/user-attachments/assets/8a53cacf-df16-472d-8d5b-8f41db153d67" />
+## 🚀 Business Impact
 
-### SQL Query 2
-<img width="1266" height="810" alt="SQL Query 2" src="https://github.com/user-attachments/assets/24323137-17a4-4db9-863a-33ecb5bbd3b0" />
+This project shows how analytics can:
+- Improve sales strategy
+- Optimize product offerings
+- Enhance operational efficiency
+- Enable data-driven decision-making
+
+---
+
+## 🏁 Author
+
+**Riddhi K**  
+Aspiring Data Analyst | SQL | Power BI | Excel  
+
+📌 *This project is part of my data analytics portfolio and demonstrates real-world business problem-solving using data.*
+
+ 
+
+
+ 
+ 
+
 
 
 
