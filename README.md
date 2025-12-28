@@ -174,6 +174,7 @@ This project shows how analytics can:
 ## 🏁 Author
 
 **Riddhi K**  
+📧 khanvilkarr02@gmail.com
 Aspiring Data Analyst | SQL | Power BI | Excel  
 
 📌 *This project is part of my data analytics portfolio and demonstrates real-world business problem-solving using data.*
